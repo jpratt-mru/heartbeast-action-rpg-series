@@ -1,18 +1,7 @@
-Index Page
-
-![~mermaid diagram 1~](../output/docs_index-md-1.png)
+New Index Page
 
 ```mermaid
 graph TD
-	Start --> Stuff --> More --> Stop
+	Learn --> How --> Git --> Works
 ```
 
-Some more text.
-
-More text.
-
-And some more.
-
-Still more text.
-
-even more text.
